@@ -63,7 +63,6 @@
 }
 
 .countdownButtonActive {
-  outline: none;
   background: var(--white);
   color: var(--title);
 }
